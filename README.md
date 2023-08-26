@@ -11,7 +11,6 @@ I'm Jatin, a data science enthusiast. Holding a bachelor's in Math and CS, I'm c
 * 💻 - Python / R / C++
 * 🌱 - I’m currently learning to craft deep learning models that add value to businesses. 
 
-
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSingh007)](https://github.com/anuraghazra/github-readme-stats)
