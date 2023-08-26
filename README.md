@@ -1,6 +1,7 @@
 ### Hi there 👋, Jatin Singh
 #### Data Science and Business Analytics 
-![Data Science and Business Analytics ](https://github.com/JatinSingh007/JatinSingh007/blob/main/Screenshot%202023-08-27%20at%202.34.45%20AM.png)
+![1846934](https://github.com/JatinSingh007/JatinSingh007/assets/54170834/121c9cf0-094e-4113-b25d-6aedda55ed6e)
+
 
 I'm Jatin, a data science enthusiast. Holding a bachelor's in Math and CS, I'm currently pursuing a master's in Data Science. Join me in deriving value from data through machine learning. 
 
