@@ -1,13 +1,15 @@
-### Hi there 👋, Jatin Singh
-#### Data Science and Business Analytics 
 ![1846934](https://github.com/JatinSingh007/JatinSingh007/assets/54170834/121c9cf0-094e-4113-b25d-6aedda55ed6e)
 
+# Jatin Singh
 
 I'm Jatin, a data science enthusiast. Holding a bachelor's in Math and CS, I'm currently pursuing a master's in Data Science. Join me in deriving value from data through machine learning. 
 
-Skills: Python /  R / Deep Learning / Statistics / Big Data
+## Skills and Experience
 
-- 🌱 I’m currently learning on crafting deep learning models that add value to businesses. 
+* ⨊  - Statistics
+* 🧠 - Deep Learning
+* 💻 - Python / R / C++
+* 🌱 - I’m currently learning to craft deep learning models that add value to businesses. 
 
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
@@ -18,3 +20,4 @@ Skills: Python /  R / Deep Learning / Statistics / Big Data
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JatinSingh007)  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JatinSingh007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-singh321//)  
