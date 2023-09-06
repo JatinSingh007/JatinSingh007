@@ -15,8 +15,6 @@ I'm Jatin, a data science enthusiast. Holding a bachelor's in Math and CS, I'm c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSingh007)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JatinSingh007&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=JatinSingh007)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/JatinSingh007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jatin-singh321//)  
