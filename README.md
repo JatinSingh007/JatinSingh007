@@ -2,7 +2,7 @@
 
 # Jatin Singh
 
-I'm Jatin, a data science enthusiast. Holding a bachelor's in Math and CS, I'm currently pursuing a master's in Data Science. Join me in deriving value from data through machine learning. 
+I'm Jatin, a computer science enthusiast. Holding a bachelor's in Math and CS, I'm currently pursuing a master's in Data Science. Join me in deriving value from data. 
 
 ## Skills and Experience
 
